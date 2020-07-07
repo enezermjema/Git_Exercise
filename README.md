@@ -9,3 +9,4 @@ This is for practice on using Git.
 1. Eric Kairuki
 1. Eneza Yoeli 
 1. Julius Mugaga
+1. Nsubuga Moses Luutu
